@@ -1,0 +1,2 @@
+/root/dnf5/dnf5/CMakeFiles/edit_cache.dir
+/root/dnf5/dnf5/CMakeFiles/rebuild_cache.dir
